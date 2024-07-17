@@ -2,6 +2,8 @@
 
 ### Dataset Link : https://www.kaggle.com/code/annastasy/predicting-students-grades
 
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/b2aa35c6-acea-4623-a684-a2893102c4ab/ReportSection?experience=power-bi
+
 ## Problem Statement
 
 This dashboard helps stakeholders understand students better and factors that affect students perfromances/grades through different factors such as weekly study time, absence from class, engagement in extra curricular activities and support from parents. The grade are represented from 0-4, where 0 is the highest grade and 4 lowest.
