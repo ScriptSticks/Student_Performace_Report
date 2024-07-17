@@ -46,7 +46,7 @@ A card visual was used to represent total number of students, total number of ma
 
 ![recommendation](https://github.com/user-attachments/assets/9c8985e3-7995-4bbc-8af7-a036152025fa)
 
- - Step 18 : Dashboard Snap
+ - Step 13 : Dashboard Snap
  # Report Snapshot (Power BI DESKTOP)
 
  
